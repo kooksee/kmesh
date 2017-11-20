@@ -2,6 +2,6 @@
 path = github.com/kooksee/kmesh
 
 [deps]
-github.com/jackpal/go-nat-pmp =
-github.com/huin/goupnp =
-
+github.com/jackpal/go-nat-pmp = 
+github.com/huin/goupnp = 
+github.com/spf13/cobra = 

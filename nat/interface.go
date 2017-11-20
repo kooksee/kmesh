@@ -5,7 +5,6 @@ import (
 	"net"
 )
 
-
 // An implementation of nat.Interface can map local ports to ports
 // accessible from the Internet.
 type Interface interface {
