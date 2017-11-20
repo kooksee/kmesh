@@ -1,7 +1,11 @@
 [target]
-path = github.com/kooksee/kmesh
+path = kmesh
 
 [deps]
 github.com/jackpal/go-nat-pmp = 
 github.com/huin/goupnp = 
 github.com/spf13/cobra = 
+github.com/spf13/pflag = 
+github.com/spf13/viper = 
+github.com/mitchellh/go-homedir = 
+

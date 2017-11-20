@@ -1,5 +1,9 @@
 package main
 
+import (
+	"kmesh/cmd"
+)
 func main() {
-	println("hello")
+
+	cmd.Execute()
 }
