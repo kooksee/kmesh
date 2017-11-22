@@ -29,7 +29,6 @@ import (
 )
 
 
-
 // Parse parses a NAT interface description.
 // The following formats are currently accepted.
 // Note that mechanism names are not case-sensitive.
